@@ -1,0 +1,5 @@
+<modules>
+    <module>first_project</module>
+    <module>first_project-war</module>
+    <module>jetty-wrapper</module>
+</modules>
