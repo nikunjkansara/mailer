@@ -1,5 +1,6 @@
-<modules>
-    <module>first_project</module>
-    <module>first_project-war</module>
-    <module>jetty-wrapper</module>
-</modules>
+<dependency>
+    <groupId>org.apache.maven</groupId>
+    <artifactId>maven-archiver</artifactId>
+    <version>2.5</version>
+</dependency>
+
