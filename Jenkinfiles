@@ -1,0 +1,14 @@
+pipeline{
+    angent any
+    stages{
+        stage('first_project'){
+
+        }
+        stage('first_codereview'){
+
+        }
+        stage('first_Test'){
+
+        }
+    }
+}
